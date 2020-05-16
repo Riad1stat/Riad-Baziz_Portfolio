@@ -1,7 +1,7 @@
 # Riad-Baziz_Portfolio
 Experience **Data Science** Portfolio
 
-![](https://raw.githubusercontent.com/Riad1stat/Riad-Baziz_Portfolio/master/images/Riad%20BAZIZ.jpg)
+![](https://raw.githubusercontent.com/Riad1stat/Riad-Baziz_Portfolio/master/images/Riad%20Baziz%20miniature.png)
 
 # [Project 1: Data Science Salary Estimator: Project Overview](https://github.com/Riad1stat/Riad-Baziz_Portfolio) 
 * Created a tool that estimates data science salaries (MAE ~ $ 11K) to help data scientists negotiate their income when they get a job.
