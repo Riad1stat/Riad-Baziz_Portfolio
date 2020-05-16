@@ -1,5 +1,5 @@
 # Riad-Baziz_Portfolio
-Experience **Data Science** Portfolio
+**Data Analyst** Portfolio
 
 ![](https://raw.githubusercontent.com/Riad1stat/Riad-Baziz_Portfolio/master/images/Riad%20Baziz%20miniature.png "Riad Baziz")
 
