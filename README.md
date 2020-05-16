@@ -1,6 +1,8 @@
 # Riad-Baziz_Portfolio
 Exemple **Data Science** Portfolio
 
+![](https://github.com/Riad1stat/Riad-Baziz_Portfolio/blob/master/images/Riad%20BAZIZ.jpg)
+
 # [Project 1: Data Science Salary Estimator: Project Overview](https://github.com/Riad1stat/Riad-Baziz_Portfolio) 
 * Created a tool that estimates data science salaries (MAE ~ $ 11K) to help data scientists negotiate their income when they get a job.
 * Scraped over 1000 job descriptions from glassdoor using python and selenium
