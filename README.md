@@ -1,5 +1,5 @@
 # Riad-Baziz_Portfolio
-Exemple **Data Science** Portfolio
+Experience **Data Science** Portfolio
 
 ![](https://github.com/Riad1stat/Riad-Baziz_Portfolio/blob/master/images/Riad%20BAZIZ.jpg)
 
